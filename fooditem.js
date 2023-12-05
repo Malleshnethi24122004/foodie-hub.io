@@ -5,7 +5,7 @@ const foodItem= [
     category : 'biryani',
     rating : 4.3,
     price: 16,
-    img:"./assests/images/ambur.jpg",
+    img:"./assests/images/ambur.jpeg",
     quantity: 1
 },
 {
